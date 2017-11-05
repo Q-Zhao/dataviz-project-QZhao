@@ -29,10 +29,10 @@ The third part of the visualization contains a year selection bar, and a bar cha
 
 This project is intended to address the following questions:
 
-* How are mobile Internet usage changing over time in every country?
-* How are mobile subscriptions changing over time in every country?
-* The relationship between GDP per capita and Internet User over time.
-* The relationship between Mobile subscriptions and Internet User over time. 
+1. How are Internet usage and mobile subscriptionschanging over time in every country?
+   * This question 
+2. The relationship between GDP per capita and Internet User over time.
+3. The relationship between Mobile subscriptions and Internet User over time. 
 
 
 ## Conclusion
