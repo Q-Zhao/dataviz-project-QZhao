@@ -31,6 +31,9 @@ This project is intended to address the following questions:
 
 1. How are Internet usage and mobile subscriptionschanging over time in every country?
    * This question 
+   * 
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=PbuPuj6XPhc" target="_blank"><img src="http://img.youtube.com/vi/PbuPuj6XPhc/0.jpg" alt="Time Slider" width="240" height="180" border="10" /></a>
+
 2. The relationship between GDP per capita and Internet User over time.
 3. The relationship between Mobile subscriptions and Internet User over time. 
 
