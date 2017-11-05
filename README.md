@@ -29,12 +29,18 @@ The third part of the visualization contains a year selection bar, and a bar cha
 
 This project is intended to address the following questions:
 
-1. How are Internet usage and mobile subscriptionschanging over time in every country?
-   * Overall, both Internet usage and mobile subscriptions are increasing over time. Although this information is not shown directly as a seperate chart since the trends are so obvious, it can be figured out by either hovering mouse on each point of the scatter plot or by sliding the year selection bar from left to right to see the bar chart changes.
+* How are Internet usage and mobile subscriptionschanging over time in every country?  
+&nbsp;&nbsp;&nbsp;&nbsp; Overall, both Internet usage and mobile subscriptions are increasing over time. Although this information is not shown directly as a seperate chart since the trends are so obvious, it can be figured out by either hovering mouse on each point of the scatter plot or by sliding the year selection bar from left to right to see the bar chart changes.  
+&nbsp;&nbsp;&nbsp;&nbsp; Click to play the video:
   <br/><a href="http://www.youtube.com/watch?feature=player_embedded&v=PbuPuj6XPhc" target="_blank"><img src="http://img.youtube.com/vi/PbuPuj6XPhc/0.jpg" alt="Time Slider" width="240" height="180" border="10" /></a>
 
-2. The relationship between GDP per capita and Internet User over time.
-3. The relationship between Mobile subscriptions and Internet User over time. 
+* The relationship between GDP per capita and Internet User over time.  
+&nbsp;&nbsp;&nbsp;&nbsp; GDP (gross domestic project) a measure of a country's economic output that accounts for population. It divides the country's gross domestic product by its total population <sup id="a1">[1](#f1)</sup>.   
+<br/>![Alt text](GDP_InternetUser.png?raw=true "Title")
+&nbsp;&nbsp;&nbsp;&nbsp; For those developing countries such as China, India or Brazil, although GDP per capita is  is highly related to Internet users per 100 people. For most developed countries such as the United States, France, or Spain, this correlation is not as strong as developing countries. Interestingly, for a large amount of countries, there is an obvious change in correlations in economic recession around 2008 and 2009. Although the GDP per capita drops during that period, the Internet Users maintained in a high level.   
+&nbsp;&nbsp;&nbsp;&nbsp; Overall, it is hard to draw a conclusion to say if GDP per capita and Internet user percentage is high correlated or not.  
+
+* The relationship between Mobile subscriptions and Internet User over time. 
 
 
 ## Conclusion
@@ -43,6 +49,7 @@ In this data visualization project, the Internet usage and mobile subscriptions 
 
 ## References:
 
+<b id="f1">1: </b>https://www.thebalance.com/gdp-per-capita-formula-u-s-compared-to-highest-and-lowest-3305848 [↩](#a1)
 
 ## Project Deployment
 
