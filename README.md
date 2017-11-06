@@ -25,7 +25,7 @@ The second part of the visualization is a scatter plot of the relationship betwe
 The third part of the visualization contains a year selection bar, and a bar chart of the relations between Internet Users and mobile subscriptions. Once users change the year in selection bar, the below bar chart is updated.
 
 
-## Discussions of visualization
+## Discussions
 
 This project is intended to address the following questions:
 
@@ -50,7 +50,7 @@ This project is intended to address the following questions:
 
 In this data visualization project, the Internet usage and mobile subscriptions in worldwide are explored. Three major panels are created to visualize country selection, the relation between GDP per capita and Internet users, and the relation between mobile subscriptions and Internet users over years. This visualization is trying to address questions including how Internet usage and mobile subscriptions changes over years, and what are their relations, as well as some thoughts on analysis of these data to somehow understand some properties of a country. 
 
-## References:
+## References
 
 <b id="ref1">1: </b>https://web.wpi.edu/academics/catalogs/grad/cscourses.html [↩](#a1)  
 <b id="ref2">2: </b>https://www.manning.com/livevideo/d3-js-in-motion [↩](#a1)  
