@@ -35,7 +35,7 @@ This project is intended to address the following questions:
   <br/><a href="http://www.youtube.com/watch?feature=player_embedded&v=PbuPuj6XPhc" target="_blank"><img src="http://img.youtube.com/vi/PbuPuj6XPhc/0.jpg" alt="Time Slider" width="240" height="180" border="10" /></a>
 
 * The relationship between GDP per capita and Internet User over time.  
-&nbsp;&nbsp;&nbsp;&nbsp; GDP (gross domestic project) a measure of a country's economic output that accounts for population. It divides the country's gross domestic product by its total population <sup>[1](#ref3)</sup>.   
+&nbsp;&nbsp;&nbsp;&nbsp; GDP (gross domestic project) a measure of a country's economic output that accounts for population. It divides the country's gross domestic product by its total population <sup>[3](#ref3)</sup>.   
 <br/>![Alt text](GDP_InternetUser.png?raw=true "Title")
 &nbsp;&nbsp;&nbsp;&nbsp; For those developing countries such as China, India or Brazil, although GDP per capita is  is highly related to Internet users per 100 people. For most developed countries such as the United States, France, or Spain, this correlation is not as strong as developing countries. Interestingly, for a large amount of countries, there is an obvious change in correlations in economic recession around 2008 and 2009. Although the GDP per capita drops during that period, the Internet Users maintained in a high level.   
 &nbsp;&nbsp;&nbsp;&nbsp; Overall, it is hard to draw a conclusion to say if GDP per capita and Internet user percentage is high correlated or not.  
